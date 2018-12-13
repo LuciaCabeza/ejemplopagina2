@@ -1,0 +1,146 @@
+.version.sobre /* version checker */
+{
+	color: #000000;
+	background-color: #75A505;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 700px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	width: 0.01px;
+}
+
+#u88
+{
+	z-index: 2;
+	min-height: 84px;
+	padding-bottom: 14px;
+}
+
+#u88_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u89-4
+{
+	z-index: 3;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 906px;
+}
+
+#u101-4
+{
+	z-index: 7;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 1004px;
+}
+
+#u102-4
+{
+	z-index: 11;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 1102px;
+}
+
+#u88-bw
+{
+	z-index: 2;
+	min-height: 84px;
+}
+
+#u120
+{
+	z-index: 16;
+	width: 675px;
+	height: 421px;
+	margin-left: 257px;
+	margin-top: 48px;
+	position: relative;
+	background: transparent url("../images/dalia-en-flor.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#pu111
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 13px;
+}
+
+#u111
+{
+	z-index: 15;
+	width: 17px;
+	height: 395px;
+	margin-right: -10000px;
+	margin-top: 91px;
+	left: 54px;
+}
+
+.ie #u111
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u121-17
+{
+	z-index: 17;
+	width: 1156px;
+	min-height: 391px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u121-2,#u121-3,#u121-5,#u121-6,#u121-8,#u121-9,#u121-11,#u121-12,#u121-14
+{
+	text-align: justify;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

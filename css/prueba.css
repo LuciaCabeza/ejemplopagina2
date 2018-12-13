@@ -1,0 +1,147 @@
+.version.prueba /* version checker */
+{
+	color: #00000F;
+	background-color: #9D0C0F;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 700px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u88
+{
+	z-index: 2;
+	min-height: 84px;
+	padding-bottom: 14px;
+}
+
+#u88_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u89-4
+{
+	z-index: 3;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 906px;
+}
+
+#u101-4
+{
+	z-index: 7;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 1004px;
+}
+
+#u102-4
+{
+	z-index: 11;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 1102px;
+}
+
+#u88-bw
+{
+	z-index: 2;
+	min-height: 84px;
+}
+
+#pu111
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 28px;
+}
+
+#u111
+{
+	z-index: 15;
+	width: 17px;
+	height: 395px;
+	margin-right: -10000px;
+	margin-top: 545px;
+	left: 54px;
+}
+
+.ie #u111
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u134
+{
+	z-index: 16;
+	width: 1178px;
+	height: 642px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/plantas-trepadoras-con-flor.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u135-17
+{
+	z-index: 17;
+	width: 1156px;
+	min-height: 391px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 855px;
+}
+
+#u135-2,#u135-3,#u135-5,#u135-6,#u135-8,#u135-9,#u135-11,#u135-12,#u135-14
+{
+	text-align: justify;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

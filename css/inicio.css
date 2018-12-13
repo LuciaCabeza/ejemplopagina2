@@ -1,0 +1,147 @@
+.version.inicio /* version checker */
+{
+	color: #0000F9;
+	background-color: #F065AD;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1200px;
+	min-height: 700px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	width: 0.01px;
+}
+
+#u88
+{
+	z-index: 2;
+	min-height: 84px;
+	padding-bottom: 14px;
+}
+
+#u88_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	left: -100px;
+}
+
+#u89-4
+{
+	z-index: 3;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 906px;
+}
+
+#u101-4
+{
+	z-index: 7;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 1004px;
+}
+
+#u102-4
+{
+	z-index: 11;
+	width: 78px;
+	min-height: 28px;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 1102px;
+}
+
+#u88-bw
+{
+	z-index: 2;
+	min-height: 84px;
+}
+
+#pu111
+{
+	width: 0.01px;
+	margin-left: 76px;
+	margin-top: 70px;
+}
+
+#u111
+{
+	z-index: 15;
+	width: 17px;
+	height: 395px;
+	margin-right: -10000px;
+	margin-top: 503px;
+}
+
+.ie #u111
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u112
+{
+	z-index: 16;
+	width: 323px;
+	height: 421px;
+	position: relative;
+	margin-right: -10000px;
+	left: 44px;
+	background: transparent url("../images/wanted.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u113-17
+{
+	z-index: 17;
+	width: 666px;
+	min-height: 597px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 436px;
+}
+
+#u113-2,#u113-3,#u113-5,#u113-6,#u113-8,#u113-9,#u113-11,#u113-12,#u113-14
+{
+	text-align: justify;
+}
+
+body
+{
+	position: relative;
+	min-width: 1200px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

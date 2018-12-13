@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="https://luciacabeza.github.io/ejemplopag" resolutions="1x" timestamp="1544727693545">
+  <folder name="css">
+    <file name="site_global.css" crc="453856629"/>
+    <file name="master_a-p_g_-maestra.css" crc="4192298649" ref="sobre:inicio:index:prueba"/>
+    <file name="sobre.css" crc="7709957" ref="sobre"/>
+    <file name="inicio.css" crc="4193281453" ref="inicio"/>
+    <file name="index.css" crc="3888397685" ref="index"/>
+    <file name="prueba.css" crc="261950479" ref="prueba"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="inicio:sobre:prueba:index"/>
+    <file name="museutils.js" crc="183364071" ref="inicio:sobre:prueba:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="inicio:sobre:prueba:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="inicio:sobre:prueba"/>
+  </folder>
+  <folder name="images">
+    <file name="wanted.jpg" crc="131729239" ref="inicio"/>
+    <file name="dalia-en-flor.jpg" crc="3872175291" ref="sobre"/>
+    <file name="plantas-trepadoras-con-flor.jpg" crc="150354752" ref="prueba"/>
+  </folder>
+  <file name="inicio.html" crc="3898591353" seo="true" mt="1544727692550" redirect="true"/>
+  <file name="sobre.html" crc="530617221" seo="true" mt="1544727692668" redirect="true"/>
+  <file name="prueba.html" crc="3792461726" seo="true" mt="1544727522688" redirect="true"/>
+  <file name="index.html" crc="4136875794" seo="true" mt="1544727572026" redirect="true"/>
+</manifest>
